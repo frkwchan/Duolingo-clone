@@ -1,0 +1,5 @@
+{
+  "name": "DuoGen AI",
+  "description": "A Duolingo-style language learning app powered by Gemini. Learn any language with AI-generated lessons and custom illustrations.",
+  "requestFramePermissions": []
+}
